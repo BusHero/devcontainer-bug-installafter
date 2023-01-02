@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"image": "ubuntu",
+	"features": {
+		"ghcr.io/devcontainers/features/dotnet:1": {}
+	}
+}
